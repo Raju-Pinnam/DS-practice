@@ -1,0 +1,14 @@
+.github
+.vscode
+.idea
+*.log
+*.tmp
+node_modules
+dist
+coverage
+.env
+.DS_Store
+*.swp
+*.swo
+Python-for-Algorithms--Data-Structures--and-Interviews-master (1)
+.ipynb_checkpoints
